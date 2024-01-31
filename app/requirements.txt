@@ -1,3 +1,4 @@
 fastapi==0.68.0
 pydantic==1.9.0
-dapr-fastapi==0.4.0
+dapr-ext-fastapi==1.10.0
+dapr==1.12.0

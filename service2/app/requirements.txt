@@ -1,0 +1,2 @@
+fastapi==0.68.0
+dapr-ext-fastapi==1.10.0
